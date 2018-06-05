@@ -3,7 +3,7 @@
 
 PROGNAME=`basename $0`
 VERSION="Version 1.1.4"
-AUTHOR="Guillaume Coré <fridim@onfi.re>, Ales Nosek <ales.nosek@gmail.com>, Staf Wagemakers <staf@wagemakers.be>"
+AUTHOR="Guillaume Coré <fridim@onfi.re>, Ales Nosek <ales.nosek@gmail.com>, Staf Wagemakers <staf.wagemakers@newtec.eu>"
 
 ST_OK=0
 ST_WR=1

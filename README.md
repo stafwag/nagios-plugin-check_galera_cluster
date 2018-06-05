@@ -3,7 +3,7 @@ nagios-plugin-check_galera_cluster
 
 A nagios plugin to check status of a galera cluster
 
-    Version 1.1.4, Guillaume Coré <fridim@onfi.re>, Ales Nosek <ales.nosek@gmail.com>, Staf Wagemakers <staf@wagemakers.be>
+    Version 1.1.4, Guillaume Coré <fridim@onfi.re>, Ales Nosek <ales.nosek@gmail.com>, Staf Wagemakers <staf.wagemakers@newtec.eu>
 
     check_galera_cluster is a Nagios plugin to monitor Galera cluster status.
     
