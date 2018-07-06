@@ -225,6 +225,9 @@ if [ ! -z "$stateFile" ]; then
 
   else
 
+    # sort the state File
+    cat $stateFile | sort -u -o $stateFile
+
     if [ "$rConnected" = "ON" ]; then
       # get the current connected Nodes
       currentNodes=$(echo $rIncommingAddresses | tr "," "\n" | sort -u)
